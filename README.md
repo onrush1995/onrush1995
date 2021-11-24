@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onrush1995
+- 👋 Hi, I’m Moni
 - 👀 I’m interested in ... programming.
 - 🌱 I’m currently learning ... Js,React
 - 💞️ I’m looking to collaborate on ... 
